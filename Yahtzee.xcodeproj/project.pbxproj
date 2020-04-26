@@ -10,8 +10,8 @@
 		3127709D2187B2E200D2D0AC /* gameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3127709C2187B2E200D2D0AC /* gameView.swift */; };
 		312770A52188D26B00D2D0AC /* backgroundAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312770A42188D26B00D2D0AC /* backgroundAudio.swift */; };
 		3137AE292198E904008EE57A /* L102Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3137AE282198E904008EE57A /* L102Language.swift */; };
+		5A036BA0245637BB001B0990 /* Background Music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5A036B9F245637BB001B0990 /* Background Music.mp3 */; };
 		5A75ED6A2189452F00356E64 /* scoreboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A75ED692189452F00356E64 /* scoreboard.swift */; };
-		5A86486321AF8C1F00662451 /* Background Music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5A86486221AF8C1F00662451 /* Background Music.mp3 */; };
 		5A8D5A28219CF87E00D031C4 /* player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8D5A27219CF87E00D031C4 /* player.swift */; };
 		5C63619F2187963000543FE4 /* appDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C63619E2187963000543FE4 /* appDelegate.swift */; };
 		5C6361A12187963000543FE4 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5C6361A02187963000543FE4 /* GameScene.sks */; };
@@ -54,8 +54,8 @@
 		3137AE282198E904008EE57A /* L102Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = L102Language.swift; sourceTree = "<group>"; };
 		3137AE3621990FE3008EE57A /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
 		3137AE3A219910CF008EE57A /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		5A036B9F245637BB001B0990 /* Background Music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Background Music.mp3"; sourceTree = "<group>"; };
 		5A75ED692189452F00356E64 /* scoreboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scoreboard.swift; sourceTree = "<group>"; };
-		5A86486221AF8C1F00662451 /* Background Music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Background Music.mp3"; path = "../../../Desktop/Background Music.mp3"; sourceTree = "<group>"; };
 		5A8D5A27219CF87E00D031C4 /* player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = player.swift; sourceTree = "<group>"; };
 		5C63619B2187963000543FE4 /* Yahtzee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Yahtzee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C63619E2187963000543FE4 /* appDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appDelegate.swift; sourceTree = "<group>"; };
@@ -127,6 +127,7 @@
 		5C63619D2187963000543FE4 /* Yahtzee */ = {
 			isa = PBXGroup;
 			children = (
+				5A036B9F245637BB001B0990 /* Background Music.mp3 */,
 				5C981CF6219D1D7C00347A1F /* howToPlayView.swift */,
 				5C63619E2187963000543FE4 /* appDelegate.swift */,
 				312770A42188D26B00D2D0AC /* backgroundAudio.swift */,
@@ -137,7 +138,6 @@
 				5C6361A22187963000543FE4 /* Actions.sks */,
 				5C6361A42187963000543FE4 /* gameScene.swift */,
 				5C6361A62187963000543FE4 /* mainMenuView.swift */,
-				5A86486221AF8C1F00662451 /* Background Music.mp3 */,
 				3127709C2187B2E200D2D0AC /* gameView.swift */,
 				5CC605F22187D467003219E3 /* settingsView.swift */,
 				5C6361A82187963000543FE4 /* Main.storyboard */,
@@ -278,7 +278,7 @@
 				5C6361A12187963000543FE4 /* GameScene.sks in Resources */,
 				5C6361AC2187963100543FE4 /* Assets.xcassets in Resources */,
 				5C6361AF2187963100543FE4 /* LaunchScreen.storyboard in Resources */,
-				5A86486321AF8C1F00662451 /* Background Music.mp3 in Resources */,
+				5A036BA0245637BB001B0990 /* Background Music.mp3 in Resources */,
 				5C6361A32187963000543FE4 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
