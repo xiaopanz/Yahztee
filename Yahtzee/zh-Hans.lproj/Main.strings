@@ -1,0 +1,109 @@
+/* Class = "UIButton"; normalTitle = "Small straight"; ObjectID = "0fp-B6-Fqp"; */
+"0fp-B6-Fqp.normalTitle" = "小直";
+
+/* Class = "UILabel"; text = "Number of Players"; ObjectID = "0qr-E6-XKE"; */
+"0qr-E6-XKE.text" = "玩家人数";
+
+/* Class = "UIButton"; normalTitle = "How to play"; ObjectID = "5Da-nB-bNf"; */
+"5Da-nB-bNf.normalTitle" = "怎么玩";
+
+/* Class = "UIButton"; normalTitle = "Chance"; ObjectID = "6Ct-La-Mdu"; */
+"6Ct-La-Mdu.normalTitle" = "机会";
+
+/* Class = "UILabel"; text = "Player 1"; ObjectID = "7Wo-4u-83y"; */
+"7Wo-4u-83y.text" = "球员1";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "8JH-gd-0kc"; */
+"8JH-gd-0kc.normalTitle" = "设置";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "95E-ih-GVb"; */
+"95E-ih-GVb.text" = "标签";
+
+/* Class = "UILabel"; text = "Number of games"; ObjectID = "A1J-Hf-w2Q"; */
+"A1J-Hf-w2Q.text" = "游戏数量";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "Aoq-ie-ELt"; */
+"Aoq-ie-ELt.normalTitle" = "英语";
+
+/* Class = "UIButton"; normalTitle = "Mute"; ObjectID = "Bal-Mb-Qoe"; */
+"Bal-Mb-Qoe.normalTitle" = "静音";
+
+/* Class = "UIButton"; normalTitle = "1's"; ObjectID = "DMH-WT-GJK"; */
+"DMH-WT-GJK.normalTitle" = "那些";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "DrY-rH-7DQ"; */
+"DrY-rH-7DQ.normalTitle" = "玩";
+
+/* Class = "UIButton"; normalTitle = "6's"; ObjectID = "EUq-NA-Roy"; */
+"EUq-NA-Roy.normalTitle" = "乱七八糟";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "Gun-Xx-yAv"; */
+"Gun-Xx-yAv.normalTitle" = "玩";
+
+/* Class = "UIButton"; normalTitle = "Japanese"; ObjectID = "Hw2-N9-L28"; */
+"Hw2-N9-L28.normalTitle" = "日本";
+
+/* Class = "UIButton"; normalTitle = "Quit"; ObjectID = "Kh5-7G-zji"; */
+"Kh5-7G-zji.normalTitle" = "放弃";
+
+/* Class = "UIButton"; normalTitle = "4x"; ObjectID = "LaE-b2-qwp"; */
+"LaE-b2-qwp.normalTitle" = "四x";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "RHg-Pn-lAl"; */
+"RHg-Pn-lAl.normalTitle" = "背部";
+
+/* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "RbD-Op-dv8"; */
+"RbD-Op-dv8.normalTitle" = "重新开始";
+
+/* Class = "UIButton"; normalTitle = "Chinese"; ObjectID = "SPQ-nn-6W0"; */
+"SPQ-nn-6W0.normalTitle" = "中文";
+
+/* Class = "UIButton"; normalTitle = "4's"; ObjectID = "U1d-z8-Y9V"; */
+"U1d-z8-Y9V.normalTitle" = "四肢";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Y0h-c4-Fj2"; */
+"Y0h-c4-Fj2.normalTitle" = "背部";
+
+/* Class = "UILabel"; text = "Game:"; ObjectID = "bll-oK-99r"; */
+"bll-oK-99r.text" = "游戏：";
+
+/* Class = "UIButton"; normalTitle = "Bonus"; ObjectID = "br7-c6-hM8"; */
+"br7-c6-hM8.normalTitle" = "奖金";
+
+/* Class = "UIButton"; normalTitle = "3's"; ObjectID = "cNG-qh-nC9"; */
+"cNG-qh-nC9.normalTitle" = "三分";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fFO-Ah-48i"; */
+"fFO-Ah-48i.text" = "标签";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "fgU-Is-Bvw"; */
+"fgU-Is-Bvw.normalTitle" = "改变语言";
+
+/* Class = "UIButton"; normalTitle = "5's"; ObjectID = "gMw-cA-MwO"; */
+"gMw-cA-MwO.normalTitle" = "五岁以下儿童";
+
+/* Class = "UIButton"; normalTitle = "2's"; ObjectID = "iLD-c5-L1H"; */
+"iLD-c5-L1H.normalTitle" = "三三两两";
+
+/* Class = "UILabel"; text = "Score: "; ObjectID = "m1W-Ep-djq"; */
+"m1W-Ep-djq.text" = "得分了：";
+
+/* Class = "UIButton"; normalTitle = "Large straight"; ObjectID = "pSh-4D-1ee"; */
+"pSh-4D-1ee.normalTitle" = "大直";
+
+/* Class = "UIButton"; normalTitle = "Yahtzee"; ObjectID = "tsS-RU-fVr"; */
+"tsS-RU-fVr.normalTitle" = "Yahtzee";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "ukY-sc-7PH"; */
+"ukY-sc-7PH.normalTitle" = "背部";
+
+/* Class = "UIButton"; normalTitle = "3x"; ObjectID = "wdE-Vb-IGT"; */
+"wdE-Vb-IGT.normalTitle" = "3x";
+
+/* Class = "UIButton"; normalTitle = "Full House"; ObjectID = "xkb-EY-FFc"; */
+"xkb-EY-FFc.normalTitle" = "客满";
+
+/* Class = "UIButton"; normalTitle = "Return to Game"; ObjectID = "yXy-sq-74S"; */
+"yXy-sq-74S.normalTitle" = "回到游戏";
+
+
